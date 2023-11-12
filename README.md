@@ -4,8 +4,6 @@
 
 **PlanPerfect** Displays event images, organizers, posts and comments
 
-Time spent: **5** hours spent in total
-
 ## Prerequisites
 
 Before you start, ensure you have the following prerequisites installed on your system:
@@ -16,7 +14,7 @@ Before you start, ensure you have the following prerequisites installed on your 
 
 * npm install -g react-native-cli
 
-3. Yarn (optional but recommended): Yarn is a package manager that can speed up the installation process. 
+3. Install Yarn (recommended): Yarn is a package manager that can speed up the installation process. 
    Install Yarn by following the instructions at https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable
 
 4. Java Development Kit (JDK): Download and install JDK
@@ -45,7 +43,7 @@ or if you prefer using npm:
 
 For Android:
 
-* react-native run-android
+* yarn android or react-native run-android
 
 For iOS:
 
