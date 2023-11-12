@@ -2,7 +2,7 @@
 
 ## *Pasindu Batagoda*
 
-**PlanPerfect** Displays event images, organizers, posts and comments
+**PlanPerfect** displays event images, organizers, posts, and comments
 
 ## Prerequisites
 
@@ -10,9 +10,7 @@ Before you start, ensure you have the following prerequisites installed on your 
 
 1. Node.js: Download and install Node.js
 
-2. React Native CLI: Install the React Native CLI globally by running the following command in your terminal:
-
-* npm install -g react-native-cli
+2. React Native CLI: Setup React Native by following the instructions at https://reactnative.dev/docs/environment-setup
 
 3. Install Yarn (recommended): Yarn is a package manager that can speed up the installation process. 
    Install Yarn by following the instructions at https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable
