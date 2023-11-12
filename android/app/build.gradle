@@ -222,12 +222,21 @@ android {
         }
     }
     signingConfigs {
+            release {
+            storeFile file('planperfect.keystore')
+            storePassword '123456'
+            keyAlias 'planperfect'
+            keyPassword '123456'
+    }
+
         debug {
             storeFile file('debug.keystore')
             storePassword 'android'
             keyAlias 'androiddebugkey'
             keyPassword 'android'
         }
+
+        
     }
     buildTypes {
         debug {
