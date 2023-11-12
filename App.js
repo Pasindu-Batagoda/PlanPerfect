@@ -68,7 +68,7 @@ function MainTabNavigator() {
 export default function App() {
   // Set the status bar color globally
   StatusBar.setBackgroundColor(appColors.colorLightRed);
-  StatusBar.setBarStyle('light-content'); // 'dark-content' for light text on a dark background
+  StatusBar.setBarStyle('light-content');
 
   // State to manage splash screen visibility
   const [isSplashVisible, setSplashVisible] = React.useState(true);
