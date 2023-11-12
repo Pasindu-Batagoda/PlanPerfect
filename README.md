@@ -48,4 +48,5 @@ For iOS:
 * react-native run-ios
 
 ## Additional Notes
-Make sure to have a working internet connection during the first build, as the project might download additional dependencies
+Make sure to have a working internet connection during the first build, as the project might download additional dependencies.
+This app requires an active internet connection to function.
