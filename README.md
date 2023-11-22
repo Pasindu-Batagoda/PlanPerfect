@@ -1,4 +1,4 @@
-# PlanPerfect - Event Planner App for Swivel Assignment
+# PlanPerfect - Sample app for learning purposes
 
 ## *Pasindu Batagoda*
 
